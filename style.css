@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    /* border-radius: 20%; */
+    /* margin: 1rem; */
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+.red{
+    background-color: #d95980;
+    border-top-left-radius: 100%;
+}
+.yellow{
+    background-color: #f99b45;
+    border-bottom-left-radius: 100%;
+}
+.sky{
+    background-color: #63aac0;
+    border-top-right-radius: 100%;
+}
+.purple{
+    background-color: #819ff9;
+    border-bottom-right-radius: 100%;
+}
+.gameFlash{
+    background-color: #fff;
+}
+.userFlash{
+    background-color: green;
+}
