@@ -47,3 +47,5 @@ A fun and interactive **memory-based web game** where players repeat an increasi
 1. Clone this repository  
    ```bash
    git clone https://github.com/Sutapa27/simon-says-game.git
+
+## Made with 🤍 by Sutapa
